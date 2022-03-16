@@ -1,3 +1,0 @@
-hello_git!
-hello_git!v1
-git3
